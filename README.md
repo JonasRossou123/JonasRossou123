@@ -8,8 +8,9 @@
 <p>&#9889; Fun fact: I love playing the piano	&#127929;</p> 
 
 <br />
+<br />
 
-#### Connect with me
+### Connect with me
 <a href = "mailto: jonas.rossou@hotmail.com"><img align="left" alt="jonasrossou.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
 <a href="www.jonasrossou.com"><img align="left" alt="jonasrossou.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/jonasrossou/"><img align="left" alt="jonasrossou.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -17,7 +18,7 @@
 
 <br />
 
-#### Languages and tools
+### Languages and tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
