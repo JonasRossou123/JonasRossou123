@@ -1,8 +1,8 @@
 ## Hi there 👋  
 ### I'm Jonas, a web developer based in Antwerp!
-<p>&#128301; I’m currently working on: Portfolio</p> <br />
-<p>&#127793; I’m currently learning: Three.js & Python</p> <br />
-<p>&#128172; Ask me about all code-related stuff</p> <br />
+<p>&#128301; I’m currently working on: Portfolio</p>
+<p>&#127793; I’m currently learning: Three.js & Python</p>
+<p>&#128172; Ask me about all code-related stuff</p>
 <p>&#9889; Fun fact: I love playing the piano</p> <br />
 
 ### Connect with me
