@@ -1,5 +1,5 @@
-### Hi there 👋  
-#### I'm Jonas, a web developer based in Antwerp!
+## Hi there 👋  
+### I'm Jonas, a web developer based in Antwerp!
 <p>&#128301; I’m currently working on: Portfolio</p> <br />
 <p>&#127793; I’m currently learning: Three.js & Python</p> <br />
 <p>&#128172; Ask me about all code-related stuff</p> <br />
@@ -11,6 +11,7 @@
 <a href="www.jonasrossou.com"><img align="left" alt="jonasrossou.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/jonasrossou/"><img align="left" alt="jonasrossou.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/jonasrossou/"><img align="left" alt="jonasrossou.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></br>
+</br>
 
 ### Languages and tools
 
