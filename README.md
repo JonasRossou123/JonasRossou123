@@ -2,12 +2,10 @@
 
 #### I'm Jonas, a web developer based in Antwerp!
 
-www.jonasrossou.com
-
-<p>&#128301; I’m currently working on my portfolio</p> <br />
+<p>&#128301; I’m currently working on: Portfolio</p> <br />
 <p>&#127793; I’m currently learning: Three.js & Python</p> <br />
 <p>&#128172; Ask me about all code-related stuff</p> <br />
-<p>&#9889; Fun fact: I love playing the U+1F3B9 piano	&#127929;</p> 
+<p>&#9889; Fun fact: I love playing the piano	&#127929;</p> 
 
 ### Connect with me
 <a href = "mailto: jonas.rossou@hotmail.com"><img align="left" alt="jonasrossou.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
@@ -41,6 +39,8 @@ www.jonasrossou.com
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 
 <br /><br />
 
