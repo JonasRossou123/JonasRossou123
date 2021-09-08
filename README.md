@@ -1,10 +1,12 @@
-### Hi there 👋  I'm Jonas, a web developer based in Antwerp!
+### Hi there 👋  
+
+## I'm Jonas, a web developer based in Antwerp!
 
 www.jonasrossou.com
 
-🔭 I’m currently working on my portfolio
-🌱 I’m currently learning Three.js/Python
-💬 Ask me about all code-related stuff
+🔭 I’m currently working on my portfolio <br />
+🌱 I’m currently learning Three.js/Python <br />
+💬 Ask me about all code-related stuff <br />
 ⚡ Fun fact: I love playing the piano 🎹 You can find me in the gym 🏋🏼‍♂️ 
 
 ### Connect with me
