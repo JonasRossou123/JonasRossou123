@@ -4,10 +4,10 @@
 
 www.jonasrossou.com
 
-🔭 <p> I’m currently working on my portfolio</p> <br />
-🌱 <p> I’m currently learning Three.js/Python</p> <br />
-💬 <p> Ask me about all code-related stuff</p> <br />
-⚡ <p> Fun fact: I love playing the piano 🎹</p> 
+<p>&#128301; I’m currently working on my portfolio</p> <br />
+<p>&#127793; I’m currently learning Three.js/Python</p> <br />
+<p>&#128172; Ask me about all code-related stuff</p> <br />
+<p>&#9889; Fun fact: I love playing the U+1F3B9 piano	&#127929;</p> 
 
 ### Connect with me
 <a href = "mailto: jonas.rossou@hotmail.com"><img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
