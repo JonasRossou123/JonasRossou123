@@ -6,7 +6,8 @@
 <p>&#127793; I’m currently learning: Three.js & Python</p> <br />
 <p>&#128172; Ask me about all code-related stuff</p> <br />
 <p>&#9889; Fun fact: I love playing the piano	&#127929;</p> 
-<br /><br />
+
+<br />
 
 #### Connect with me
 <a href = "mailto: jonas.rossou@hotmail.com"><img align="left" alt="jonasrossou.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
@@ -14,7 +15,7 @@
 <a href="https://www.linkedin.com/in/jonasrossou/"><img align="left" alt="jonasrossou.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/jonasrossou/"><img align="left" alt="jonasrossou.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<br /><br />
+<br />
 
 #### Languages and tools
 
@@ -30,7 +31,7 @@
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 
-<br /><br />
+<br />
 
 <img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" />
 
@@ -42,9 +43,7 @@
 
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
-
-
-<br /><br />
+<br />
 
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
