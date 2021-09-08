@@ -8,7 +8,6 @@
 <p>&#9889; Fun fact: I love playing the piano	&#127929;</p> 
 
 <br />
-<br />
 
 ### Connect with me
 <a href = "mailto: jonas.rossou@hotmail.com"><img align="left" alt="jonasrossou.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
