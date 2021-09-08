@@ -30,8 +30,6 @@
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
 <br /><br />
 
 <img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" />
@@ -44,7 +42,7 @@
 
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+
 
 <br /><br />
 
@@ -55,6 +53,8 @@
 <img align="left" alt="MariaDB" width="26px" src="https://www.nicepng.com/png/full/336-3363223_mariadb-logo-png.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
 
 <br /><br />
