@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Jonas!
+### Hi there 👋  I'm Jonas, a web developer based in Antwerp!
 
 www.jonasrossou.com
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Three.js/Python
-- 💬 Ask me about all code-related stuff
-- ⚡ Fun fact: I love playing the piano 🎹 You can find me in the gym 🏋🏼‍♂️ 
+🔭 I’m currently working on my portfolio
+🌱 I’m currently learning Three.js/Python
+💬 Ask me about all code-related stuff
+⚡ Fun fact: I love playing the piano 🎹 You can find me in the gym 🏋🏼‍♂️ 
 
 ### Connect with me
 <a href = "mailto: jonas.rossou@hotmail.com"><img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
@@ -15,11 +15,10 @@ www.jonasrossou.com
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -31,19 +30,15 @@ www.jonasrossou.com
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-
 <br /><br />
 
 <img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-
-
 
 <br /><br />
 
