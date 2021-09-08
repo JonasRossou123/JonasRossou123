@@ -11,7 +11,7 @@
 #### Connect with me
 <a href = "mailto: jonas.rossou@hotmail.com"><img align="left" alt="jonasrossou.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" /></a>
 <a href="www.jonasrossou.com"><img align="left" alt="jonasrossou.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="www.linkedin.com/in/jonasrossou"><img align="left" alt="jonasrossou.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/jonasrossou/"><img align="left" alt="jonasrossou.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/jonasrossou/"><img align="left" alt="jonasrossou.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br /><br />
